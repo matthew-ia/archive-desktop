@@ -1,8 +1,8 @@
-# Desktop Archive
+# Directory Archive
 
 Ever want to tidy up your Desktop but don't have time to sift through files?
 
-Enter `archivedt`, a simple CLI tool to automatically archive your Desktop files into dated folders.
+Enter `darchive`, a simple CLI tool to automatically archive your Desktop files into dated folders.
 
 ## What it Does
 
